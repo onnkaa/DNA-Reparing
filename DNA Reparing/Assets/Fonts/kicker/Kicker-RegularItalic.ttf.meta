@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ed82e3293d069e544b9d524488fc0b24
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kicker
+  fontNames:
+  - Kicker
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7e889d156fcbd5b4bb6f99011241b376, type: 3}
+  - {fileID: 12800000, guid: 68417116b23d7814588b9caea11bcb53, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
